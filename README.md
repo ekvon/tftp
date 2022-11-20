@@ -1,2 +1,2 @@
 # tftp
-tftp-clien on boost/asio
+tftp-client on boost/asio
